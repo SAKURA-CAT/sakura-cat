@@ -12,7 +12,7 @@
 	<br>
 </p>
 
-## My Skills 👾
+## Top Skills 👾
 
 <p align="center">
 	<br>
