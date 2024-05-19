@@ -17,7 +17,7 @@
 <p align="center">
 	<br>
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=js,html,css,python,rust,go,vue,vite,pytorch,docker,kubernetes,terraform,postgres,redis,sqlite" />
+		<img src="https://skillicons.dev/icons?i=js,html,css,python,rust,go,vue,vite,pytorch,docker,kubernetes,terraform,postgres,redis,obsidian" />
 	</a>
 	<br>
 	<br>
