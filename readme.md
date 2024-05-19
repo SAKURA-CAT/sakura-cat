@@ -6,12 +6,12 @@
 	<br>
 </div>
 
-<i style="display: flex; justify-content: center; align-items: center;">
-  <b>I love code</b>&nbsp;&nbsp;<img src="cat-typing.gif" alt="Cat Typing" width="60" height="60">&nbsp;&nbsp;<b>and cats</b>&nbsp;&nbsp;<img src="fresh-bro.gif" alt="Fresh Bro" width="60" height="60">&nbsp;&nbsp;<b>Let's do something fun!</b>
+<p align="center">
+  <b>I love coding&nbsp;&nbsp;<img src="cat-typing.gif" alt="Cat Typing" width="60" height="60">&nbsp;&nbsp;and cats&nbsp;&nbsp;<img src="fresh-bro.gif" alt="Fresh Bro" width="60" height="60">, enjoying learning!</b>
   <br>
   <br>
   <br>
-</i>
+</p>
 
 ## My Skills 👾
 
@@ -22,3 +22,6 @@
   </a>
 </p>
 
+<p align="center">
+<b>Let's do something fun!</b>
+</p>
