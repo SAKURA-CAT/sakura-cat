@@ -24,5 +24,9 @@
 </p>
 
 <p align="center">
-	<b>Let's do something fun!</b>
+  <img src="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<p align="center">
+	<b>Just for fun!</b>
 </p>
