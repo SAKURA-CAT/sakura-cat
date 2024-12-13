@@ -1,31 +1,7 @@
-## Hey There 👋
-
-<div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-</div>
-
-<p align="center">
-	<b>I love coding&nbsp;&nbsp;<img src="cat-typing.gif" alt="Cat Typing" width="60" height="60">&nbsp;&nbsp;and cats&nbsp;&nbsp;<img src="fresh-bro.gif" alt="Fresh Bro" width="60" height="60">, enjoying learning!</b>
-</p>
-
-<div align=center>
-	<picture >
-		  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake.svg">
-		  <img alt="snake" src="https://github.com/SAKURA-CAT/SAKURA-CAT/raw/output/github-contribution-grid-snake.svg">
-	</picture>
-</div>
-
-## Top Skills 👾
-
-<p align="center">
-	<br>
-	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=ts,html,css,python,rust,go,next,vue,pytorch,docker,kubernetes,terraform,postgres,redis,obsidian" />
+<h1 align="center">Hi, I'm Kang, aka Sakura-Cat! <img alt="hand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h3 align="center">A fullstack developer from China. Maintainer of <a href="https://github.com/SwanHubX/SwanLab">SwanLab</a></h3>
+<div  align="center">
+	<a href="https://github.com/SAKURA-CAT?tab=repositories&type=source">
+		<img src="/github-metrics.svg" alt="Metrics">
 	</a>
-</p>
-
-<p align="center">
-	<b>Just for fun!</b>
-</p>
+</div>
