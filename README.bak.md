@@ -5,6 +5,7 @@
 	<br>
 </div>
 
+
 <p align="center">
 	<b>I love coding&nbsp;&nbsp;<img src="cat-typing.gif" alt="Cat Typing" width="60" height="60">&nbsp;&nbsp;and cats&nbsp;&nbsp;<img src="fresh-bro.gif" alt="Fresh Bro" width="60" height="60">, enjoying learning!</b>
 </p>
